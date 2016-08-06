@@ -1,0 +1,33 @@
+_repo: Stories-of-InventorsThe-Adventures-of-Inventors-and-Engineers_11368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doubleday, Russell
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '3957'
+    url: http://www.gutenberg.org/2009/agents/3957
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Doubleday
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions'
+- !lcc 'T'
+- !lcsh 'Inventors'
+- GITenberg
+tableOfContents: 'How Guglielmo Marconi telegraphs without wires -- Santos-Dumont
+  and his air-ship -- How a fast train is run -- How automobiles work -- The fastest
+  steamboats -- The life-savers and their apparatus -- Moving pictures: some strange
+  subjects and how they were taken -- Bridge builders and some of their achievements
+  -- Submarines in war and peace -- Long-distance telephony: what happens when you
+  talk into a telephone receiver -- A machine that thinks: a type-setting machine
+  that makes mathematical calculations -- How heat produces cold: artificial ice-making.'
+title: 'Stories of Inventors: The Adventures of Inventors and Engineers'
+url: http://www.gutenberg.org/ebooks/11368
